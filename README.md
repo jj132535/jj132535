@@ -1,5 +1,5 @@
 # ✨ About ✨ 
-🎓 Currently studying at Hansung University<br>Learning three majors allows me to explore various dimensions of media and software!<br>🎞 Movie & Animation Design<br>🥽 Digital Contents & Virtual Reality<br>📱 Mobile Software<br><br>🌱 Currently working on projects Unity game development and VFX in Unity.<br><br>
+🎓 Currently studying at Hansung University<br>Learning three majors allows me to explore various dimensions of media and software!<br>🎞 Movie & Animation Design<br>🥽 Digital Contents & Virtual Reality<br>📱 Mobile Software<br><br🎇CG & Visual Effects(Micro Degree)<br><br>🌱 Currently working on projects Unity game development and VFX in Unity.<br><br>
 🕹Aspiring to start a career in game programming or graphics.
 
 # 💻 Tech Stack:
